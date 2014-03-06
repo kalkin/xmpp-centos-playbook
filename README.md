@@ -1,6 +1,6 @@
 # Jabber Playbook
 
-This [Ansible Playbook](http://docs.ansible.com) installs ans configures the
+This [Ansible Playbook](http://docs.ansible.com) installs and configures the
 prosody jabber server on a Centos 6 machine.  
 
 ## Introduction
@@ -8,10 +8,10 @@ This playbook should be seen as a guide to setting up an own secure jabber
 server.
 
 ### Target Auditory
-Users with some basic knowledge of managing linux systems
+Users with some basic knowledge of managing Linux systems
 
 ### Purpose of this project
-We want to promote standartized, free and open source communication platforms
+We want to promote standardized, free and open source communication platforms
 to be hosted by anyone.
 
 ## Requirements
