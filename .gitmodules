@@ -1,0 +1,6 @@
+[submodule "roles/centos"]
+	path = roles/centos
+	url = https://github.com/xsrc/centos.git
+[submodule "roles/prosody"]
+	path = roles/prosody
+	url = https://github.com/xsrc/prosody.git
